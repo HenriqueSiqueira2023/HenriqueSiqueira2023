@@ -10,3 +10,9 @@ Olá pessoal 👋, me chamo Henrique C.B de Siqueira.
 
 EDUCAÇÃO SUPERIOR: 
 - Formado em Gestão da tecnologia da informação. -UNIPLAN/DF;
+
+- Tecnologias e Ferramentas:
+
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
