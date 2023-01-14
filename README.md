@@ -25,8 +25,8 @@ EDUCAÇÃO SUPERIOR:
 </div>
                                                                                 
 
-![Snake animation](https://github.com/HenriqueSiqueira2023/HenriqueSiqueira2023/blob/output/github-contribution-grid-snake.svg)
-          
+
+  ![Snake animation](https://github.com/HenriqueSiqueira2023/HenriqueSiqueira2023/blob/output/github-contribution-grid-snake.svg)        
         
           
          
