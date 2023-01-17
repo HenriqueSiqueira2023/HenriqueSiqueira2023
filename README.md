@@ -2,7 +2,7 @@
 
 Olá pessoal 👋, me chamo Henrique C.B de Siqueira.
 
-- Estudo para: Linux, Kubernetes, Docker, Java , apache e Microsserviços.
+- Estudo para: Linux, Kubernetes, Docker, apache e Microsserviços.
 - Atualmente estou desenvolvendo minhas habilidades para a Cloud: Azure e Aws
 - Um dos meus principais objetivos é adquirir experiência na área de TI e experiências profissionais.
 - Linkedin: https://www.linkedin.com/in/henrique-de-siqueira/
@@ -12,7 +12,7 @@ EDUCAÇÃO SUPERIOR:
 
 - Tecnologias e Ferramentas:
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>                                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="55" height="55"/>                                                
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>                                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="55" height="55"/>                                                
                                                                                                                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>                                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
                                                                                                                                       
