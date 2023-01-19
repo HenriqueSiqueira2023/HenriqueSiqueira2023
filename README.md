@@ -11,6 +11,7 @@ EDUCAÇÃO SUPERIOR:
 - Formado em Gestão da tecnologia da informação: -UNIPLAN/DF;
 
 - Tecnologias e Ferramentas:
+
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>                                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="55" height="55"/>                                                
                                                                                                                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" />
