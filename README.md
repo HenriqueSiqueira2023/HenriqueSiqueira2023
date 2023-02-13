@@ -2,7 +2,7 @@
 
 Olá pessoal 👋, me chamo Henrique C.B de Siqueira.
 
-- Estudo para: Linux, Kubernetes, Docker, apache e Microsserviços.
+- Estudo para: Microsoft Azure, Linux, Kubernetes, Docker, apache e Microsserviços.
 - Atualmente estou desenvolvendo minhas habilidades para a Cloud: Azure e Aws
 - Um dos meus principais objetivos é adquirir experiência na área de TI e experiências profissionais.
 - Linkedin: https://www.linkedin.com/in/henrique-de-siqueira/
